@@ -1,3 +1,1 @@
-richardmillson.github.io
-============
-my personal webpage
+My personal site.
